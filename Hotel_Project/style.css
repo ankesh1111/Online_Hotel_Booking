@@ -1,0 +1,339 @@
+ body{
+            margin: 0%;
+            padding: 0%;
+        }
+        #p1{
+         /* border: 1px solid red; */
+         width:99.9%;
+         height:50px;
+         font-size: 10px;
+display: flex;
+gap: 10px;
+box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+position: fixed;
+background-color:white;
+color: black;
+        }
+        #p1 h2{
+margin-left: 30px;
+margin-top: 16px;
+cursor: pointer;
+color: white;
+font-size: 16px;
+font-family: sans-serif;
+}
+#p1 a{
+  color:black;
+
+  text-decoration: none;
+}
+#p2{
+    border: 1px solid red;
+    width: 400px;
+    height: 260px;
+    /* background-color: white; */
+    margin-left: 20px;
+    margin-top: -300px;
+}
+.p3{
+    padding-left: 60px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    padding-top: 15px;
+    font-size: 30px;  background-color: red; width: 340px;height: 55px;margin-top: -1px;
+}
+.p3 h2{
+    padding-top: 100px;
+}
+ 
+/* #p4 input{
+ width: 90px;
+ height: 20px;
+} */
+#p5{
+    border: 1px solid red;
+    width:950px;
+    height: 60px;
+    display: flex;
+    margin-left: 27px;
+}
+#p6{
+    /* border: 1px solid red; */
+    width:950px;
+    height: 450px;
+    display: flex;
+    gap: 27px;
+    /* background-color: rgb(236, 221, 221); */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    margin-left: 28px;
+}
+#p6 div{
+    width: 300px;
+height: 450px;
+background-color: rgb(236, 221, 221);
+/* border: 1px solid red; */
+ 
+}
+#p7{
+    width:950px;
+    height: 450px;
+    display: flex;
+    margin-left: 28px;
+    /* border: 1px solid red; */
+}
+#p7 div{
+    width: 500px;
+height: 450px;
+/* border: 1px solid red; */
+}
+#p8 {
+    width:950px;
+    height: 50px;
+    display: flex;
+    gap: 100px;
+    margin-left: 28px;
+    /* border: 1px solid red; */
+}
+#p8 p{
+    width: 300px;
+    margin-left: 5px;
+    /* border: 1px solid red; */
+    height: 30px;
+    font-family: sans-serif;
+}
+#p8 p i{
+    background-color: white;
+    color: red;
+}
+
+#p9{
+    border: 1px solid red;
+    width:950px;
+    background-color: red;
+    color: white;
+    height: 100px;
+    margin-left: 28px;
+}
+#p9 p{
+    font-size: 22px;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+#i1{
+    border: 1px solid red;
+    width: 120px;
+    background-color: red;
+    height: 48px;
+}
+p i{
+    font-size: 20px;
+    margin-left: 15px;
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    /* border: 1px solid red; */
+}
+span{
+    font-size: 19px;
+    margin-left: 20px;
+    color: white;
+    cursor: pointer;
+    font-family: sans-serif;
+}
+ 
+#p10{
+    width:950px;
+    height: 420px;
+    display: flex;
+   
+    gap: 15px;
+    /* border: 1px solid red; */
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+    margin-left: 28px;
+}
+#p10 div{
+    width: 500px;
+height: 400px;
+margin-top: 10px;
+/* border: 1px solid red; */
+ 
+}
+#p11{
+    width: 100px;
+    height: 400px;
+    display: flex;
+    /* margin-top: -20px; */
+    gap: 10px;
+    /* border: 1px solid red; */
+    
+    
+}
+#p11 div{
+    /* border: 1px solid red; */
+    height: 400px;
+    margin-top: 0px;
+    width: 220px;
+}
+
+#p12{
+    width:1004px;
+    height: 260px;
+    background-color: black;
+    gap: 15px;
+    border: 1px solid black;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px; */
+   
+}
+/* #p12:hover{
+    background-color: grey;
+} */
+#p13{
+    /* border: 1px solid red; */
+    margin-left: 25px;
+    width: 94%;
+    height: 40px;
+    background-color: white;
+}
+#p13 input{
+    width: 99.5%;
+    height: 40px;
+    border: none;
+     box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px;
+}
+.p14{
+    margin-left: 25px;
+    margin-top: 20px;
+    padding: 11px;
+    width: 110px;
+    border:none;
+    color: white;
+    font-size: 15PX;
+    background-color: #F44336;
+}
+.p14:hover{
+    background-color: white;
+    color: black;
+}
+#p15{
+    /* border: 1px solid red; */
+    /* margin-left: 25px; */
+    width: 94%;
+    height: 480px;
+    background-color: white;
+}
+#p16 i{
+    color: red;
+    margin-left:26px;
+    background-color: white;
+}
+#p16 p{
+    font-family: sans-serif;
+}
+#p17{
+    /* border: 1px solid red; */
+
+}
+#p17 input{
+    width: 88%;
+    margin-left: 32px;
+    height: 40px;
+}
+.P18{
+    width: 160px;
+    height: 45PX;
+    margin-left: 33px;
+    background-color: black;
+    color: WHITE;
+    border: none;
+    font-size: 15PX;
+}
+#p19{
+    border: 1px solid red;
+    width:1004px;
+    height: 260px;
+    background-color: black;
+
+}
+ .p20{
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    font-family: sans-serif;
+ }
+ .p21{
+display: flex;
+margin-left: 425px;
+gap: 5px;
+ 
+font-size: 26px;
+}
+.p21 p{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 6px 20px;
+}
+.c1{
+display: flex;
+margin-left: 400px;
+/* border: 1px solid red; */
+margin-top: -30px;
+font-size: 30px;
+}
+.c1 p{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 6px 20px;
+}
+.c1 i{
+    background-color: black;
+    font-size: 26px;
+    /* width: 22px; */
+    /* border: 1px solid red; */
+    
+ 
+}
+#f1{
+    border: 1px solid black;
+    width: 99.8%;
+    background-color:black ;
+    height: 220px;
+}
+.c2 {
+ color: white;
+ text-align: center;
+ font-size: 27px;
+ margin-top: 50px;
+ font-family: sans-serif;
+}
+.a1 img{
+    /* border: 1px solid red; */
+    width: 600px;
+    margin-left: -100px;
+}
+
+h3{
+    margin-left:14px;
+    font-family: system-ui;
+    color:rgb(39, 38, 38) ;
+}
+h4{
+    margin-left:14px;
+    color: grey;
+    font-family: sans-serif;
+}
+.s1{
+    margin-left: 14px;
+    font-family: sans-serif;
+}
+.s2{
+    margin-left: 14px;
+    font-family: sans-serif;
+}
+button a{
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+ }
+ button:hover{
+    background-color: deeppink;
+ }
+ .S3{
+   font-size: 15px; border: none; background-color: black;color: white; margin-left: 15px; width: 260px;height: 40px;
+ }
+ 
